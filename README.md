@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Home](https://github.com/wikidetuco/wikidetuco/home.md)
 ```markdown
 Syntax highlighted code block
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-[Home](https://github.com/wikidetuco/wikidetuco/home.md)
+
 
 **Bold** and _Italic_ and `Code` text
 
