@@ -9,7 +9,7 @@ You will find all the information you need..
 ### Find information according to your role:
 
 
-[I am a Production Coordinator](https://torchpad.com/workspace/wikis/wikidetuco/pages/Production/I+am+a+Production+Coordinator)
+[I am a Production Coordinator](production/i-am-a-production-coordinator.md)
 
 [I am an Animator](https://torchpad.com/workspace/wikis/wikidetuco/pages/Animators/I+am+an+Animator)
 
