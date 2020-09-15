@@ -38,7 +38,7 @@ Bienvenida/o! Gracias por hacerte parte del equipo.
 - Asegurarse de que todas las personas que deben ver lo que se envía lo hayan visto antes de asumir aprobado y dar marcha a procesos que tienen dependencia de etapas previas.
 - Plantear posibles problemas directamente con producción en Slack y las preguntas artísticas/de dirección consultarlas por Shogun dirigidas a los directores y linkeadas al tema que corresponda.
 - Evaluar siempre los pedidos de cambios "polémicos" que recibimos. Primero pasan por el filtro de producción, luego se comentan con equipo base de Detuco si es necesario en un llamado y por último cuando ya está todo en firme sí se comunicaría el pedido al artista que corresponda.  
-- Enviar versiones solo cuando estén confirmadas por el equipo base de Detuco. 
+- Enviar versiones solo cuando estén confirmadas por el equipo base de Detuco.
 
 
 
