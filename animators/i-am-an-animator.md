@@ -5,6 +5,7 @@
 We have a very simple Pipeline to set up.
 We are using Maya 2018.6.
 For the pipeline we are using a Dropbox folder with the structure of a Maya project so that the scenes can have all the corresponding assets referenced.
+
 We try to keep everything referenced and not imported in animation so that you can keep everything up to date with all the fixes or changes.
 
 [To learn how to set up the Pipeline Go Here](https://torchpad.com/workspace/wikis/wikidetuco/pages/Who-is-Detuco/Setting+the+Pipeline)
