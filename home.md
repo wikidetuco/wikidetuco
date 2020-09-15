@@ -1,7 +1,7 @@
 # Home
 
 Hi! Welcome to Wiki-Detuco! 
-You will find all the information you need.
+You will find all the information you need..
 
 
 ## What do you do?
