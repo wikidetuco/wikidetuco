@@ -11,15 +11,15 @@ You will find all the information you need..
 
 [I am a Production Coordinator](production/i-am-a-production-coordinator.md)
 
-[I am an Animator](https://torchpad.com/workspace/wikis/wikidetuco/pages/Animators/I+am+an+Animator)
+[I am an Animator](animators/i-am-an-animator.md)
 
-[I am a 3D Artist](https://torchpad.com/workspace/wikis/wikidetuco/pages/3D-Team/I+am+a+3D+Artist)
+[I am a 3D Artist](3d-team/i-am-a-3d-artist.md)
 
-[Who do I ask something?](https://torchpad.com/workspace/wikis/wikidetuco/pages/Who-is-Detuco/Detuco+Base+Team)
+[Who do I ask something?](who-is-detuco/detuco-base-team.md)
 
-[What tools do I need to know?](https://torchpad.com/workspace/wikis/wikidetuco/pages/Who-is-Detuco/Detuco+Tools)
+[What tools do I need to know?](who-is-detuco/detuco-tools.md)
 
-[I just need to set up the Pipeline](https://torchpad.com/workspace/wikis/wikidetuco/pages/Who-is-Detuco/Setting+the+Pipeline)
+[I just need to set up the Pipeline](who-is-detuco/setting-the-pipeline.md)
 
 
 Page under construction from here on ...
