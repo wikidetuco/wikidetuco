@@ -24,12 +24,3 @@ You will find all the information you need..
 
 Page under construction from here on ...
 
-## Drag & Drop Image Upload
-
-
-![ZAcpYl2ytb.gif](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/21/aCrK3ScrRjaPaDUUBioU_ZAcpYl2ytb.gif)
-
-
-
-
-
