@@ -47,6 +47,7 @@ On the new window select the letter P in the “Drive” options.
 Now at your File Explorer you should see the new drive “P” and the Dropbox folder inside with all its folder structure.
 
 The main Dropbox folder is equivalent to the Maya project folder. You just need to set that the first time you open your Maya scene.
+
 So to check that everything is okay, you should see that the project is addressed directly to "P" like this P:/MyProject. And Maya Project should be adressed to the same path. 
 
 
