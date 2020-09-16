@@ -47,6 +47,8 @@ On the new window select the letter P in the “Drive” options.
 Now at your File Explorer you should see the new drive “P” and the Dropbox folder inside with all its folder structure.
 
 The main Dropbox folder is equivalent to the Maya project folder. You just need to set that the first time you open your Maya scene.
+So to check that everything is okay, you should see that the project is addressed directly to "P" like this P:/MyProject. And Maya Project should be adressed to the same path. 
+
 
 **One last thing:** 
 When synchronizing each folder comes by default as **“online only”**, it means that nothing is downloaded but it WILL be necessary to download **the folders** that contain the files you will need. To do so, go to the Dropbox App and select the folder you want to download, right click on it and choose **"local"**.
