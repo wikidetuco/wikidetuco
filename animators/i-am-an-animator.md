@@ -34,11 +34,11 @@ AND IF APPLIES FOR THE PROJECT, ALSO UPLOAD THEM TO SHOTGUN. How? Watch the [tut
  
 *Please don’t modify any of the other Dropbox folders.
 
-**- KEEP THE VERSION NAMES IN INCREMENTAL NUMBERS** THRU ALL THE STEPS (except for layout) AND WITHOUT MENTIONING THE STEP: 
+**- KEEP THE VERSION NAMES IN INCREMENTAL NUMBERS** THRU ALL THE STEPS AND WITHOUT MENTIONING THE STEP: 
 - Example:
 anim_s01_010_v01
 anim_s01_010_v20
-*for layout it would be: lay_s01_010_v01
+
 *Also please check after every day that the last version is synced.
 
 **- CHECK THE PROJECT SPECS**
