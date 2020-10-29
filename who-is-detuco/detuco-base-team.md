@@ -2,7 +2,7 @@
 
 ## Quienes somos en el equipo base de Detuco?
 
-**- Lila Goldenberg: Productora ejecutiva.**
+**- Sol Rulloni: Productora ejecutiva.**
 Está a cargo de concretar proyectos nuevos y hace el primer contacto con algunos potenciales nuevos miembros del equipo. También lleva el control general del presupuesto de los proyectos y efectúa el cierre de trabajo de cada artista.
 
 **- Irina Illera: Coordinadora de Producción de todos los proyectos del estudio.**
