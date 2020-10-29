@@ -10,7 +10,7 @@
 - Contiene una estructura de carpetas que si se altera podría romperse todo, así que primero consultar antes de modificar carpetas.
 - Ahí estarán todos los archivos de proyecto, escenas, video e imagenes.
 - Todos los artistas deberían tener acceso con permiso de edición.
-- Algunos miembros del equipo es necesario que configuren la sincronización del proyecto. Hay un [Manual](Who-is-Detuco/Setting+the+Pipeline) en proceso de construcción para configurar esto bien. Los que lo necesitan suelen ser los que tienen que abrir escenas que tienen diferentes materiales referenciados (p.e dressing, animación, lighting).
+- Algunos miembros del equipo es necesario que configuren la sincronización del proyecto. Hay un [Manual](https://wikidetuco.github.io/wikidetuco/who-is-detuco/setting-the-pipeline.html) en proceso de construcción para configurar esto bien. Los que lo necesitan suelen ser los que tienen que abrir escenas que tienen diferentes materiales referenciados (p.e dressing, animación, lighting).
 - Para compartir a personas externas un solo archivo por única vez sin permiso de edición, se pueden compartir por medio de links. De lo contrario se descarga el archivo que corresponda y se sube a la plataforma solicitada (por ejemplo Shotgun). 
 
 **2. Slack:**
