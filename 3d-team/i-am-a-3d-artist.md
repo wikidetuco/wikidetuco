@@ -13,7 +13,7 @@ Si eres modelador/ra, probablemente no necesites nada más.
 
 Si vas a trabajar con escenas que tienen referenciados otros materiales como props, personajes, set... necesitarás tener la carpeta de Dropbox sincronizada, aunque puedes elegir sincronizar solo las **carpetas** que necesitas.
 
-[Ver cómo configurar la sincronización.]()
+[Ver cómo configurar la sincronización.](https://wikidetuco.github.io/wikidetuco/who-is-detuco/setting-the-pipeline.html)
 
 ## CONSIDERACIONES ESPECIALES DE ALGUNOS ROLES:
 
