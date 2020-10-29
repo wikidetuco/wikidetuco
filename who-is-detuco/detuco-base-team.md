@@ -11,7 +11,7 @@ Se encarga de coordinar todos los procesos, el calendario, la comunicación con 
 **- Mariano De Apellaniz: Socio del estudio, artista 3D y supervisor, con muchos años de experiencia.** 
 Es generalista pero a lo largo del tiempo se ha especializado en: texturas, shading y lighting.
 
-**- Flavio Bianchi: Socio del estudio, artista 3D y vfx y supervisor, con muchos años de experiencia.**
+**- Flavio Bianchi: Socio del estudio, artista 3D, vfx y supervisor, con muchos años de experiencia.**
 Es generalista pero a lo largo del tiempo se ha especializado en: matchmove, hair, shading y lighting.
 Junto con Mariano solucionan casi todos los problemas técnicos que se puedan presentar en el pipeline.
 
