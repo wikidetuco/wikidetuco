@@ -25,6 +25,5 @@ Si no cuentas con ningún software que sirva para convertirlas, hay algunas pág
 
 **MOTOR DE RENDER: REDSHIFT (Versión: 2.5.40)**
 
-
-
+[DONDE ENCUENTRO / GUARDO MIS ARCHIVOS?](https://wikidetuco.github.io/wikidetuco/who-is-detuco/file-locations.html)
 
