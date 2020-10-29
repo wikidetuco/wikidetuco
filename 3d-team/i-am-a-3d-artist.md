@@ -25,9 +25,6 @@ Si no cuentas con ningún software que sirva para convertirlas, hay algunas pág
 
 **MOTOR DE RENDER: REDSHIFT (Versión: 2.5.40)**
 
-Settings:
-![acescolorspacecom.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/GuXt2uIASBag1HuhZyQx_acescolorspacecom.png)
-
 
 
 
