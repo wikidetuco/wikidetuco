@@ -8,7 +8,7 @@ For the pipeline we are using a Dropbox folder with the structure of a Maya proj
 
 We try to keep everything referenced and not imported in animation so that you can keep everything up to date with all the fixes or changes.
 
-[To learn how to set up the Pipeline Go Here](https://torchpad.com/workspace/wikis/wikidetuco/pages/Who-is-Detuco/Setting+the+Pipeline)
+[To learn how to set up the Pipeline Go Here](https://wikidetuco.github.io/wikidetuco/who-is-detuco/setting-the-pipeline.html)
 
 ## Once you have configured the Pipeline, you are almost ready! Just keep these general recommendations in mind:
 
