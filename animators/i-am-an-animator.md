@@ -59,8 +59,7 @@ anim_s01_010_v20
 ## NAMING CONVENTION
 
 **1. SCENES**
-![nomenclatura.jpg]
-![image (81).png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/PWDLMXDgQoWgZfJydmSV_image%20(81).png)
+![nomenclatura.jpg](nomenclatura.jpg)
 
 **2. CAMERAS**
 Also starts with the piece "tank name" or abbreviation, pipeline step, then Scene Number plus frame range at the end, like this: 
