@@ -25,8 +25,9 @@ And if other needs arise depending on the project, we will specify them vía mai
 - Don’t sync any subfolders with the name “Versiones”. 
 
 **SAVE YOUR SCENES IN THIS PATH:**
-(projectname)/scenes/ANIM/*scene folder
+(projectname)/scenes/ANIM/*scene or sequence folder*/*shot folder */
 *If the scene folder doesn't exist, please create a new folder for it.
+E.X: BodyArmor/scenes/ANIM/JAMORANT/T050/
 
 **PLEASE SAVE THE PLAYBLAST IN:**
 (projectname)/movies/ANIM/*scene folder
@@ -56,6 +57,7 @@ anim_s01_010_v20
 ## NAMING CONVENTION
 
 **1. SCENES**
+
 ![image (81).png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/PWDLMXDgQoWgZfJydmSV_image%20(81).png)
 
 **2. CAMERAS**
