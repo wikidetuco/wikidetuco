@@ -59,7 +59,7 @@ anim_s01_010_v20
 ## NAMING CONVENTION
 
 **1. SCENES**
-![nomenclatura.jpg](nomenclatura.jpg)
+![nomenclatura.jpg](./nomenclatura.jpg)
 
 **2. CAMERAS**
 Also starts with the piece "tank name" or abbreviation, pipeline step, then Scene Number plus frame range at the end, like this: 
