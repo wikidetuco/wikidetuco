@@ -45,7 +45,7 @@ anim_s01_010_v20
 *Also please check after every day that the last version is synced.
 
 **- CHECK THE PROJECT SPECS**
-- Ask your production coordonator which are the specific specs for the project.
+- Ask your production coordonator which are the specs for the project.
 - And as for Playblasts: QT, H264 or Photo-Jpeg, quality 100, Display Size: From Render Settings.
 
 ## HOW TO START
