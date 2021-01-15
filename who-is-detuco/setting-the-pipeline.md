@@ -17,31 +17,40 @@ Go to the **Dropbox folder on your main disk**, the username should appear insid
 ![image (95).png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/hoeu3Hk3Te6nXmy4HFSe_image%20(95).png)
 
 **Should look like this when is on the correct path:**
+
 ![Dropbox folder on disk.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/JZKHWeCVTZCjv0s669Dt_Dropbox%20folder%20on%20disk.png)
 
 **Next step:**Right click on the folder and select “properties”.
 Go to the “Sharing” tag and press “Share…”
+
 ![Share folder with Network.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/Xcng87jDQjKerf10qgrI_Share%20folder%20with%20Network.png)
 
 On the new window select everyone and press add. 
-As for the permissions choose read/write. 
+As for the permissions choose read/write.
+ 
 ![Permissions.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/HbHMgeveS7W7oAM3ixgw_Permissions.png)
+
 Finish this setting pressing SHARE.
 
 Then, On the File Explorer go to “Network”
+
 ![Go to Network.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/I3GHId9vTJIMlgZ7c6Uw_Go%20to%20Network.png)
 
 There you should be seeing your computer’s name.
 In this case my computer’s name is DT-02
+
 ![Computer name.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/BuIPe8ATvSvA1eriiolI_Computer%20name.png)
 
-Double click to open and you should see a folder with the Dropbox username (animacion.detuco or litcompo.detuco)
+Double click to open and you should see a folder with the Dropbox username (animacion detuco or litcompo detuco)
+
 ![Dropbox folder name at network.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/F5JFp4uRtGiCucRYAp7Q_Dropbox%20folder%20name%20at%20network.png)
 
 Right click on the Dropbox folder and select “Map Network Drive”.
+
 ![Map network drive.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/PWXEdbowSC6oXRib8P4Z_Map%20network%20drive.png)
 
-On the new window select the letter P in the “Drive” options. 
+On the new window select the letter P in the “Drive” options.
+ 
 ![Map P drive.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/M7uqiZi5TheRYw3wnbs5_Map%20P%20drive.png)
 
 Now at your File Explorer you should see the new drive “P” and the Dropbox folder inside with all its folder structure.
