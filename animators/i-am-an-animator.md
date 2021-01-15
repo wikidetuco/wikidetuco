@@ -17,8 +17,7 @@ We try to keep everything referenced and not imported in animation so that you c
  - (projectname)/scenes/RIG
  - (projectname)/scenes/PROPS
  - (projectname)/scenes/SET
- - (projectname)/sourceimages/TexturasAnim
- - (projectname)/movies/ANIM
+ - (projectname)/movies/ANIM/(assigned shots' folders)
 
 And if other needs arise depending on the project, we will specify them vía mail or Slack.
 
