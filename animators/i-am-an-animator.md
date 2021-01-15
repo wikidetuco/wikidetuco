@@ -64,6 +64,8 @@ anim_s01_010_v20
 
 ![nomenclatura.jpg](https://wikidetuco.github.io/wikidetuco/nomenclatura.jpg)
 
+*If the project doesn't have sequences inside each commercial/piece, this convention might sightly change to: (Spot)_ANIM_010_v00
+
 **2. CAMERAS**
 Also starts with the piece "tank name" or abbreviation, pipeline step, then Scene Number plus frame range at the end, like this: 
 cm_anim_01_010_fr_101_125__CAM (if the scene duration was 25 frames for example).
