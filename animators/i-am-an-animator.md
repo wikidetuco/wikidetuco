@@ -33,7 +33,7 @@ E.X: BodyArmor/scenes/ANIM/JAMORANT/T050/
 
 **PLEASE SAVE THE PLAYBLAST IN:**
 (projectname)/movies/ANIM/*scene folder
-AND IF APPLIES FOR THE PROJECT, ALSO UPLOAD THEM TO SHOTGUN. How? Watch the [tutorial](https://www.dropbox.com/s/xvyay4fylcbgsfv/How%20to%20upload%20versions%20to%20SG-ENG.mkv?dl=0) we have kindly recorded. [(or Spanish version here)](https://www.dropbox.com/s/4b5snlcyfixoged/Tutorial%20Subir%20versiones%20a%20SG_SPA.mkv?dl=0)
+AND IF APPLIES FOR THE PROJECT, ALSO UPLOAD THEM TO SHOTGUN. How? Watch the [tutorial](https://www.dropbox.com/s/xvyay4fylcbgsfv/How%20to%20upload%20versions%20to%20SG-ENG.mkv?dl=0) we have kindly recorded (eng temp unavailable). [(or Spanish version here)](https://www.dropbox.com/s/sjs6aqzx9r74a5u/Tutorial_SG_Recomendaciones_01-15-2021.mkv?dl=0)
  
 *Please don’t modify any of the other Dropbox folders.
 
