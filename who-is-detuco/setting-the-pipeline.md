@@ -21,7 +21,7 @@ Go to the **Dropbox folder on your main disk**, the username should appear insid
 ![Dropbox folder on disk.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/JZKHWeCVTZCjv0s669Dt_Dropbox%20folder%20on%20disk.png)
 
 **Next step:**Right click on the folder and select “properties”.
-Go to the “Sharing” tag and press “Share…”
+Go to the “Sharing” tab and press “Share…”
 
 ![Share folder with Network.png](https://s3-ap-northeast-1.amazonaws.com/torchpad-production/wikis/15338/Xcng87jDQjKerf10qgrI_Share%20folder%20with%20Network.png)
 
