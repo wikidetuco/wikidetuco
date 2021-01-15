@@ -50,6 +50,8 @@ anim_s01_010_v20
 
 ## HOW TO START
 
+*If the scenes were already created, you can skip this section. 
+
 - Open the "Base" scene that we have prepared for each set (ask the TD or the Production Coordinator which is it and its location).
 - Reference characters and props that the assigned scene requires.
 - Name the Camera with the naming convention for cameras (see below).
