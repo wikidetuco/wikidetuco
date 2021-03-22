@@ -3,6 +3,7 @@ Bienvenida/o! Gracias por hacerte parte del equipo.
 
 ## **Lo que se espera de tu rol:**
 2 Consignas MUY IMPORTANTES:
+
 **1. "Assumption is the mother of all fuckups":** No se te pide que sepas todas las cuestiones técnicas, ni todas las respuestas, pero sí ser muy cuidadosa/so con la verificación de la información. Es mejor doble chequear, antes de pedir algo que no se entiende y crear un problema innecesario.
 
 2. **"Underpromise and Overdeliver"**: antes de comprometer al equipo, chequear las posibilidades y tratar de mediar con todas las partes para llegar a un punto que sea conveniente para todos, mejor sorprender enviando algo antes de lo prometido que fallar a un compromiso.
